@@ -1,0 +1,18 @@
+{
+  "name": "red_envelope",
+  "version": "1.0.0",
+  "description": "red_envelope",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.3.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "red_envelope"
+  ],
+  "author": "mark (dust_38@hotmail.com)",
+  "license": "ISC"
+}

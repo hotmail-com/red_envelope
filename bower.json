@@ -1,0 +1,21 @@
+{
+  "name": "red_envelope",
+  "version": "0.1.0",
+  "authors": [
+    "Christopher <dust_38@hotmail.com>"
+  ],
+  "description": "red_envelope",
+  "keywords": [
+    "red",
+    "envelope"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
